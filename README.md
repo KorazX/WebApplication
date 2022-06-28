@@ -1,5 +1,5 @@
 # AplikacjaWebowa
-Przykładowa aplikacja internetowa wykorzystująca Entity Framework oraz Razor Pages wykorzystując bazę SQL
+Przykładowa aplikacja internetowa korzystająca z  Entity Framework oraz Razor Pages wraz z bazą SQL
 
 Temat: Prosta aplikacja WEB do obsługi listy kontaktów
 1. Logowanie:
